@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-I'm a self-taught developer who is always "learning" new things and trying new things. I've built portfolios, websites, Electron applications. My latest foray is in backend development with Nodejs. I'm currently working on Scrimba's Frontend Developer Path. I want to strengthen my Frontend development before continuing my foray into backend to finally achieve full stack.   
+I'm a self-taught developer who is always "learning" new things and trying new things. I've built portfolios, websites, and Electron applications. My latest foray is in backend development with Nodejs. I'm currently working on Scrimba's Frontend Developer Path. I want to strengthen my Frontend development before continuing my foray into the backend to finally achieve full stack.   
   
 
 <br/>  
@@ -37,10 +37,6 @@ I'm a self-taught developer who is always "learning" new things and trying new t
   
 
 - ⚡ Fun fact: I keep night light switched on at all times   
-
-
-</td><td valign="top" width="50%">
-
 
 
 </td></tr></table>  
